@@ -1,3 +1,4 @@
+# Cryptography
 ## Mod 26
 I used ROT13 online decoder for this. ROT13 is same as Caesar Cipher but replaces a letter with the 13th letter after it in the alphabet. 
 ## The Numbers
