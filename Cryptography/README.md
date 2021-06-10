@@ -6,4 +6,4 @@ Decimal to string online converter can be used for this task.
 ## 13
 Same ROT13 method is used to solve this task.
 ## caesar
-Caesar Cipher online decoding tool can be used to decode the given string. As we dont know the key to decrypt, it is better to keep it as "guess" and the online tool will search for the meaningful string as well as returns the key.
+Caesar Cipher online decoding tool can be used to decode the given string. As we dont know the key to decrypt, it is better to stick with "guess" and the online tool will search for the meaningful string as well as returns the key.
